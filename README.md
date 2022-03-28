@@ -19,7 +19,8 @@ The following folder `src/main/java/AutomationTest/qatask` contains the followin
 
 - `BrowserSetup` - This contains the setup of a given browser based on what is set to Browser property within `TestData.properties` 
 -  `DetailsPage` - Written the three method for filling the text control,form control and button control. Instead of creating different xpath only one xpath is written and fetch xpath notation from cucumber file and appended in the xpath and form is filled.
-
+- UI.Test.feature - Folder is unser src/test/java - Wrote scenario which includes data
+- 
  
 ## Steps to execute this project
 
